@@ -1,2 +1,2 @@
-# assistant_wpr
+# assistant-wpr
 final project
